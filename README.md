@@ -6,4 +6,4 @@
 
 😄 Pronomes: Ele/delas
 
-⚡ Curiosidade: Faço lives da [twich](https://www.twitch.tv/matbatata_batata)!
+⚡ Curiosidade: Faço lives na [twich](https://www.twitch.tv/matbatata_batata)!
