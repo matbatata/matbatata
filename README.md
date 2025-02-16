@@ -1,9 +1,9 @@
 👋 Olá, eu sou @matbatata
 
-👀 Estou interessado: Em aprender Python
+👀 Estou aprendendo: Python
 
-🌱 Atualmente: Estou aprendendo funções em Python
+🌱 Atualmente: Estou melhorando e aprimorando o python
 
 😄 Pronomes: Ele/delas
 
-⚡ Curiosidade: Faço lives na [twich](https://www.twitch.tv/matbatata_batata)!
+⚡ Curiosidade: Faço lives de vez em quando na [twitch](https://www.twitch.tv/matbatata_batata)!
